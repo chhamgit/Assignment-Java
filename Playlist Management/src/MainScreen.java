@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Optional;
 
-public class Main {
+public class MainScreen {
     public static void main(String[] args) {
 
             List<Artist> listArtists = new LinkedList<>();
